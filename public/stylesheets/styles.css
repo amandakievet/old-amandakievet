@@ -1,7 +1,8 @@
 /*$sans-serif: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 body {
   color: #333;
-  text-align: center; }
+  text-align: center; 
+  overflow: hidden;}
 
 header {
   height: 30vh;
